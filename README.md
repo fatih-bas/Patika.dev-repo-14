@@ -1,4 +1,4 @@
-## Patika.dev Veri yapıları ve Algoritma Projeleri 
+## Patika.dev Veri Yapıları ve Algoritma Projeleri 
 
 
  - [Insertion Sort](https://github.com/fatih-bas/Patika.dev-repo-14/blob/main/insertion_sort.md)
